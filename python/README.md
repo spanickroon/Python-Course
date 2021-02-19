@@ -14,8 +14,14 @@
 
 [Python tutorial english](https://www.w3schools.com/python/default.asp)
 
-[Множества](https://ru.wikipedia.org/wiki/%D0%9C%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE)
+[Учебник Python Rus](https://pythoner.name/documentation/tutorial)
 
-[Теория множеств](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2)
+[Python3 Полный курс для начинающих от Джема freeCodeCamp.org YouTube Eng](https://www.youtube.com/watch?v=rfscVS0vtbw&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&start_radio=1&t=4869)
+
+[Python3 для начинающих YouTube Rus](https://www.youtube.com/playlist?list=PLQAt0m1f9OHvv2wxPGSCWjgy1qER_FvB6)
+
+[Python3 уроки от Django school YouTube Rus](https://www.youtube.com/playlist?list=PLF-NY6ldwAWo6s-QyFgg7INalN6NCgH_s)
+
+[Python3 основы от Олега Молчанова YouTube Rus](https://www.youtube.com/playlist?list=PLlWXhlUMyooaeSj8L8tVVbtUo0WCO4ORR)
 
 ---
